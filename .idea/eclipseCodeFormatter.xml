@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1493893469311" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Downloads/organizeImportsEclipse.importorder" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="name" value="default" />
+        <option name="optimizeImports" value="false" />
+        <option name="pathToConfigFileJava" value="D:/Proyectos/Java_code_format/HotelbedsStyleEclipseFormatter.xml" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </Settings>
+    </option>
+  </component>
+</project>

@@ -2,5 +2,6 @@ package bets;
 
 public enum BetName {
     BLACK,
-    RED;
+    RED,
+    ZERO
 }
